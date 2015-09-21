@@ -1,0 +1,40 @@
+---
+title: YourtionView
+subtitle: 关于生活与读书的点点滴滴
+posts_per_page: 5
+post_content_type: markdown
+post_paragraph_indent: no
+disqus: 
+duoshuo: 
+template_priority: auto
+template_inherit: yes
+template_clone_allowed: no
+autoreload: auto
+post_url_format: no_prefix
+scripts_per_page: |
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+    ga('create', 'UA-12599330-16', 'auto');
+    ga('send', 'pageview');
+  
+  </script>
+scripts_for_doc: 
+domain: view.yourtion.com
+domains:
+- view.yourtion.com
+dns: 
+auto_image: no
+comment: yes
+sync_by_3rd: no
+sync_by_3rd_public: no
+outside_links_allowed: no
+score_degree: 
+hidden_urls: 
+users: 
+client_date: Mon Sep 21 2015 17:00:42 GMT+0800 (CST)
+---
+关于生活与读书的点点滴滴
